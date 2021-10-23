@@ -2,7 +2,7 @@
 
 
 Tutorial Membuat Akun Github
-Pada kesempatan kali ini saya admin gebang kiidiw akan memberikan tutorial cara membuat akun github atau daftar akun github secara cepat dan gratis, Bagi kamu seorang programer yang memiliki script pasti ingin menyimpan file hosting secara online dan mudah diakses Nah dengan Github lah anda bisa menyimpan projeck yang anda buat digithub secara gratis  tanpa harus mikir untuk sewa hosting
+Pada kesempatan kali ini saya akan memberikan tutorial cara membuat akun github atau daftar akun github secara cepat dan gratis, Bagi kamu seorang programer yang memiliki script pasti ingin menyimpan file hosting secara online dan mudah diakses Nah dengan Github lah anda bisa menyimpan projeck yang anda buat digithub secara gratis  tanpa harus mikir untuk sewa hosting
 
 Dengan menggunakan akun Github anda mendaptkan penyimpanan untuk file script kamu secara gratis dan aman.
 biasanya kіtа mеnуіmраn file tersebut kе dalam git , Kагеnа ԁараt ԁі kelola оӏеһ banyak огаng Sеkаӏіgυѕ , ԁаn dapat ԁі еԁіt оӏеһ banyak orang kode ргоgгаm tегѕеЬυt
